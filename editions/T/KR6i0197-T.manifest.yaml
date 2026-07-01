@@ -1,0 +1,90 @@
+canonical_identifier: bkk:krp/KR6i0197/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0197/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 順權方便經
+  identifiers:
+    krp: KR6i0197
+    cbeta: T14n0565
+    cbeta_old_id: T14n0565
+    authorityid: CA0003197
+    json_key: T0565
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0565.xml
+    old_id: T14n0565
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0197_000-T.yaml, hash: 'sha256:5eedd1bc95107ed25d3ea200c621a6732d735729895e0d5b0837613ce30fa961'}
+  - {seq: 1, filename: KR6i0197_001-T.yaml, hash: 'sha256:9c3d3dd2b2a794ec841c73a19b1bd7929ac715e31121ebac3d89c29fb8c08eb3'}
+  - {seq: 2, filename: KR6i0197_002-T.yaml, hash: 'sha256:aa49d0d37b2927959c36ec0e409136c96072f49a09f475bd3b05ef68e40eaa09'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0197_000-T.markers.yaml, hash: 'sha256:ad45f5067c494943a966ffe21b983d0291b187b28f80b5c79d9f90fe1ef9ea7b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0197_001-T.markers.yaml, hash: 'sha256:8a4cd57e795570fab32ac5dfece045796affd9ac8623559a521ded0295f0745c'}
+  - {seq: 2, role: markers, filename: assets/KR6i0197_002-T.markers.yaml, hash: 'sha256:56e9025d56b891081aefcf069f6737fe5722a9f2f477a4f74d4adc7108f2cfb3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0197_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6183
+  label: 順權方便經卷上一名轉女菩薩
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0197_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 沙門法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0197_T_001-mulu-2
+    span:
+    - body
+    - 1877
+    - 1877
+  label: 2 見諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0197_T_001-mulu-3
+    span:
+    - body
+    - 4221
+    - 4221
+  label: 3 分衛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0197_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6388
+  label: 順權方便經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0197_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 4 假號品
+  type: mulu
+  level: 1
+hash: sha256:90e1a2919b29050602a49d9da3e8d269d44c7363dc342b4957eef2e3dd7df271

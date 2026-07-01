@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0197/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 順權方便經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0565.xml
+    old_id: T14n0565
+hash: sha256:5eedd1bc95107ed25d3ea200c621a6732d735729895e0d5b0837613ce30fa961
